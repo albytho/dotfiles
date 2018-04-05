@@ -1,0 +1,4 @@
+Host raspi
+  Hostname raspberrpi.home
+  User alby
+  IdentityFile ~/.ssh/id_rsa.aes
